@@ -1,0 +1,109 @@
+
+.content {
+    display: flex;
+    background-color: #F0F2F5;
+}
+.facebook {
+    display: flex;
+    width: 50%;
+    height: 1000px;
+    margin-top: 180px;
+    margin-left: 200px;
+
+    
+}
+.facebook-top {
+    font-size: 50px;
+    color: #1877F2;
+    font-weight: 600;
+
+ 
+}
+.facebook-text {
+    font-size: 25px;
+    color: black;
+    font-weight: 300;
+}
+.card {
+    display: flex;
+    width: 50%;
+    height: 1000px;
+
+}
+.card-from {
+    
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 50%;
+    height: 35%;
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+.taikhoan {
+    font-size: 18px;
+    color: #999;
+    width: 90%; 
+    height: 50px;
+    padding: 15px 20px;  
+    margin: 10px 15px;
+    box-sizing: border-box;
+    border: 3px solid #F0F2F5;
+    border-radius: 4px;
+}
+.password {
+    font-size: 18px;
+    color: #999;
+    width: 90%;  
+    padding: 11px 20px;  
+    margin: 10px 15px;  
+    box-sizing: border-box;
+    border: 3px solid #F0F2F5;
+    border-radius: 4px;
+}
+.dangnhap {
+
+    
+    width: 90%;  
+    padding: 11px 20px;  
+    margin: 10px 15px;  
+    box-sizing: border-box;
+    background-color: #1877F2;
+    border: 3px;
+    border-radius: 4px;
+    
+}
+.dangnhap-text {
+    font-size: 18px;
+    color: white;
+    margin-left: 80px;
+    
+}
+.quenpassword {
+    color: #1877F2;
+    margin-top: 12px;
+    margin-left: 110px;
+
+}
+.card-from hr {
+    margin: 15px;
+}
+.newacc {
+    width: 70%;  
+    padding: 11px 20px;  
+    margin: 10px 15px;  
+    box-sizing: border-box;
+    background-color:#42B72A;
+    border: 3px;
+    border-radius: 4px;
+    margin-left: 45px;
+}
+.newacc-text {
+    font-size: px;
+    color: white;
+    margin-left: 35px;
+}
+
+
